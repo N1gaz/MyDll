@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Matrix.cpp
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(18,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(10,1): warning C4297: HowLong: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(10,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(44,1): warning C4297: Answer: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(44,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(229,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(240,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\super\source\repos\MyDll\MyDll\Matrix.cpp(243,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека C:\Users\super\source\repos\MyDll\Debug\MyDll.lib и объект C:\Users\super\source\repos\MyDll\Debug\MyDll.exp
+  MyDll.vcxproj -> C:\Users\super\source\repos\MyDll\Debug\MyDll.dll
